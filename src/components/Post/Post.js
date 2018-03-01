@@ -10,5 +10,5 @@ const post = (props) => (
     </article>
 );
 
-
+//routing 190
 export default post;
