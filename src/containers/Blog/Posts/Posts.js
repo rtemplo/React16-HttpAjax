@@ -4,6 +4,8 @@ import axios from '../../../axios';
 import Post from '../../../components/Post/Post';
 import './Posts.css';
 
+//this is a test of SCM
+
 class Posts extends Component {
   state = {
     posts: [],
