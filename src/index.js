@@ -9,7 +9,7 @@ let removeInterceptors = false;
 
 //below overrriden by instance config in /axios.js
 axios.defaults.baseURL = 'https://jsonplaceholder.typicode.com';
-//below is just foe demonstraton - commented out for now
+//below is just for demonstraton - they may commented out
 axios.defaults.headers.common['Authorization'] = 'AUTH TOKEN';
 axios.defaults.headers.post['Content-Type'] = 'application/json';
 
